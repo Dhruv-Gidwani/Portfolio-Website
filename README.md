@@ -5,7 +5,7 @@ Step 2 :- Locate the project folder locally
 Step 3:- Run the commnad  - "start index.html"
 
 
----------------------------------------------------------------------------------------------------SNIPPETS----------------------------------------------------------------------------------------------
+--- >> SNIPPETS <<---
 ![Screenshot 2025-01-28 081235](https://github.com/user-attachments/assets/bc52ad76-45b4-4ae4-938a-bd42f23cf161)
 
 
